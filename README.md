@@ -2,15 +2,7 @@
 
 # ![Nom du Projet](https://img.shields.io/badge/Project-YourProjectName-blue) ![Version](https://img.shields.io/badge/Version-1.0.0-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## Description
 
-Bienvenue dans le projet **Nom du Projet** ! Ce projet a pour but de [description du projet]. Nous espérons que vous trouverez ce projet utile et intéressant. Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter.
-
-## Fonctionnalités
-
-- Fonctionnalité 1 : Description de la fonctionnalité 1.
-- Fonctionnalité 2 : Description de la fonctionnalité 2.
-- Fonctionnalité 3 : Description de la fonctionnalité 3.
 
 ## Liens Utiles
 
