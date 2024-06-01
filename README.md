@@ -23,7 +23,7 @@ Pour installer ce projet, suivez les étapes ci-dessous :
 ## Équipe
 
 Voici les membres de notre équipe :
-- Akhmadou NDiaye
+- Akhmadou NDIAYE
 - Nour el houda AYYAD
 - Mahamoud daoud MAHAMAT NOUR
 
