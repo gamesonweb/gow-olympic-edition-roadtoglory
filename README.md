@@ -44,5 +44,5 @@ Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
 
 ---
 
-Merci de votre intérêt pour **Nom du Projet** !
+Merci de votre intérêt pour **Road to Glory** !
 
