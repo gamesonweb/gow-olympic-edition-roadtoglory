@@ -1,6 +1,6 @@
 # gow-olympic-edition-roadtoglory
 
-# ![Nom du Projet](https://img.shields.io/badge/Project-YourProjectName-blue) ![Version](https://img.shields.io/badge/Version-1.0.0-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
+# ![Nom du Projet](https://img.shields.io/badge/Project-RoadToGlory-blue) ![Version](https://img.shields.io/badge/Version-1.0.0-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 
 
