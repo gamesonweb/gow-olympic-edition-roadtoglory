@@ -34,9 +34,11 @@ Version actuelle du projet : `v1.0.0`
 
 ## Ressources
 
-Les ressources utilisées dans ce projet proviennent des sources suivantes :
+Les ressources utilisées dans ce projet proviennent pour des modèles 3d des sources suivantes :
 
-- [sketchfab.com](https://sketchfab.com/) pour des modèles 3d.
+- [sketchfab.com](https://sketchfab.com/).
+- https://www.cgtrader.com/
+- https://ambientcg.com/view?id=Road007
 
 ## Licence
 
